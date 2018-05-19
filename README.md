@@ -1,3 +1,6 @@
 # String-Matching-Algorithm-LCS
-use two text file and update the path in the code.
-The out put will be LCS longest common subsequences betweeen in wo files.
+To Execute Advanced Algorithms, String-Matching-Algorithm-LCS
+
+1. Input for the LCS is two test file
+2. Text files path needs to be update in code 
+ 
